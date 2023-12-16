@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(54, 54, 54, 0.157);
+    color: #212529;
+}
+
+
+.borderfeed {
+    box-shadow: 5px 5px 10px;
+    margin-bottom: 5em;
+}
+
+.img-thumbnail {
+    box-shadow: 5px 5px 10px;
+}
